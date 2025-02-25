@@ -2,7 +2,7 @@
 A simple implementation of a TCP/TLS connection respecting modern versions of Golang clients
 
 *** DISCLAIMER ***
-KEYS ARE UPLOADED FOR EDUCATIONAL PURPOSES AND YOu SHOULD AVOID IT AS PRACTICE
+KEYS ARE UPLOADED FOR EDUCATIONAL PURPOSES AND YOU SHOULD AVOID IT 
 
 ```
 [req]
